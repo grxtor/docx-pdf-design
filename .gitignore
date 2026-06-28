@@ -1,0 +1,13 @@
+# build artifacts
+node_modules/
+*.pdf
+*.docx
+_verify/
+pg-*.jpg
+*_pg-*.jpg
+
+# keep the curated before/after assets
+!assets/*.jpg
+
+# os
+.DS_Store
